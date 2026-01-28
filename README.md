@@ -70,10 +70,6 @@ pip install -r requirements.txt
    - Replace the placeholder with your actual API key
    - Save the file
 
-   Example `.env`:
-   ```
-   GOOGLE_API_KEY=your_actual_api_key_here
-   ```
 
 5. **Run the app**
 ```bash
@@ -508,3 +504,4 @@ This project is created for educational purposes.
 **Version**: 2.0 (Enhanced with API security, Demo Mode, and data persistence)
 **Last Updated**: January 2026
 >>>>>>> cd59082 (Initial commit: AICTE Batch 6 Nutrition App)
+
